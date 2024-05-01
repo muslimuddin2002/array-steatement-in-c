@@ -1,0 +1,1 @@
+# array-steatement-in-c
